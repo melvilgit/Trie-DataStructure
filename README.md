@@ -1,5 +1,5 @@
 # Trie-DataStructure in Python and JavaScript
-Trie Datastructure Implementation  along with  autocomplete and search functionality.Only the leaf nodes stores leaf flag. Other nodes don't stores anything.
+Trie Datastructure Implementation  along with  autocomplete and search functionality.The nodes stores only leaf flag and nothing else !
 
   
 
