@@ -1,5 +1,5 @@
 # Trie-DataStructure
-Trie Datastructure Implementation in python along with  autocomplete and search functionality
+Trie Datastructure Implementation in python along with  autocomplete and search functionality.Only the leaf nodes stores leaf flag. Other nodes don't stores anything.
                          
                              *
                          a /  \s
